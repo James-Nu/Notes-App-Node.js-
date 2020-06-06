@@ -1,0 +1,14 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "Notes app with keeps records of notes and also deletes notes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Nunoo",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  }
+}
