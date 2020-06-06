@@ -1,1 +1,5 @@
-[{"title":"Guy","body":"cook"},{"title":"Finish Node","body":"with Mead"},{"title":"Node.js","body":"course"}]
+[
+  { "title": "Guy", "body": "cook" },
+  { "title": "Finish Node", "body": "with Mead" },
+  { "title": "Node.js", "body": "course" }
+]
